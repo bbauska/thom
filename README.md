@@ -1,6 +1,3 @@
-# thom
-Thom Hartmann's web blog information regarding politics in 2025. From Portland, Oregon.
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -65,6 +62,9 @@ Thom Hartmann's web blog information regarding politics in 2025. From Portland, 
 <body>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <button onclick="tableOfContentsFunction()" id="myBtn" title="Go to Top">TOC</button>
+<h2>thom hartmann report</h2>
+<p>Thom Hartmann's web blog information regarding politics in 2025. From Portland, Oregon.</p>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <script>
