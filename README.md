@@ -1,92 +1,7 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ index.html of bbauska/thoim making thom.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<head>
-  <meta charset="utf-8" />
-
-  <!-- meta viewport, title, desc, robot for SEO -->
-  <meta name="author" content="Brian Bauska">
-  <meta name="title" content="Thom's Politics">
-  <meta name="description" content="">
-  <meta name="keywords" content="website,web site,zombie,Politics,culture,casino,capitalism,capitalize,
-    political,disposability,death,America,culture,power,society,greed,avarice,excess,gluttony,selfishness,
-    MIC,Military,Industrial,Complex,corruption,Dulles,Bush,Reagan,justice,youth,democracy,psychology,
-    ideology,governance,spectacle,casino capitalism,zombie,steak,Steak,YouTube,Sonic,sonic,SONIC,
-    Silus,Gaming,World,Silus Gaming World,Luccas Neto,T-Series,SET India,Cocomelon,Mr Beast,MrBeast,
-    Beast,CE1,C-E-1,MRBEAST,BEAST,Silus Gaming World,Silus,Silus Spider,Nick AR,Nick,NY,NYNick,
-    New York Nick,NY Nick,UR Cristiano,UR,Cristiano,Kids Dima Show,Vlad and Niki,Luisito Comunica,
-    Bright Side,Zee TV,Dude Perfect,Tips Official,Tips Official,FNAF,Five Nights at Freddies,
-    The Music Company,PewDiePie,5 minute crafts,A4,Sambucha,Sam & Colby,Sam&ColbyReacts,Juice World,
-    Ray William Johnson,FGTV,KaicenatLive,IShowSpeed,Jelly,DanTDM,KSI,Logan Paul,JackSucksAtLife,
-    PackGOD,JakePaul,Jake,Paul Jake Paul,SamGaming01,Veshreny,WWE,WorldWrestlingEntertainment,
-    Smosh,DadsSpeed,TopperGuild,InternetAnarchist,GuavaJuice,Fortnite Youtubers,Sypherpk,LiveSPEEDY,
-    AdenRoss,Preston,JohnnieJuilbert,YouTube Movies,AnnoyingOrange,JackSepticeye,JackFilms,BBNo$,
-    Unspeakable,MarkRober,TheFilmTheorist,TheGameTheorist,Minecraft,TheBoys,JTMusic,DAFUQBoom!?,
-    AIMIN,Robby,BrentTV,EYStream,Fortnite,Ninja,SunnyV2,N30N,SamFrank,Dream,Technoblade,
-    RyanTrhan,Stellar,DJCook,AnthonyMadia,AnthonyIlla,SmoshGaming,SmoshPit,SmoshCast,Fred,cellardoor,
-    Brian's Blog,Cellar Door" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="robots" content="index, follow">
-  <link rel="manifest" href="manifest.json" />
-  <title>Zombie Politics</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico" />
-  <link rel="canonical" href="https://thom.bauska.org">
-
-  <link rel="stylesheet" type="text/css" href="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/styles/default.min.css">
-  <link rel="stylesheet" type="text/css" href="/css/styles.css">
-  <script defer src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/highlight.min.js"></script>
-  <!-- and it's easy to individually load SOME additional languages -->
-  <script defer src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/languages/go.min.js"></script>
-
-  <!-- favicon images -->
-  <link rel="shortcut icon" type="image/jpg" href="/images/favicon/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-</head>
-<body>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <button onclick="tableOfContentsFunction()" id="myBtn" title="Go to Top">TOC</button>
-<h2>thom hartmann report</h2>
-<p>Thom Hartmann's web blog information regarding politics in 2025. From Portland, Oregon.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <script>
-    <!-- get the button -->
-    var mybutton = document.getElementById("myBtn");
 
-    <!-- <i>when the user scrolls down 10px from the top of the document, show the "Top" button</i> -->
-    window.onscroll = function() {scrollFunction()};
-    function scrollFunction() {
-      if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
-        mybutton.style.display = "block";
-      } else {
-        mybutton.style.display = "none";
-      }
-    }
-
-  // <i>when the user clicks on the button, scroll to the table of contents near top of document.</i>
-  function tableOfContentsFunction() {
-    document.getElementById('table-of-contents').scrollIntoView();
-  }
-
-  </script>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Has Trump heralded a new “gilded age?” What comes next? Like Gatsby’s 1925 West </h2>
@@ -234,29 +149,6 @@ Yes, We’re the Villains Now — And It’s About to Get Worse
 Will any Republican in today’s House or Senate — the bodies the Founders created — 
 find even a fraction of the courage of the men who founded this nation?
 
-	
-Forwarded this email? Subscribe here for more
-
-The Hartmann Report is a reader-supported publication where all weekday articles are free 
-and available to everyone. Please support my work to rescue democracy and save our 
-planet by becoming a paid subscriber today and gain additional benefits
-
-Upgrade to paid
-Yes, We’re the Villains Now — And It’s About to Get Worse
-Will any Republican in today’s House or Senate — the bodies the Founders created — find 
-even a fraction of the courage of the men who founded this nation?
-THOM HARTMANN
-FEB 21
-
- 
-
-
-
-
-READ IN APP
- 
-
-Share
 
 Former Republican Congressman Adam Kinsinger asks a question no current Republican 
 politician appears willing to say out loud for fear that Musk, Trump, or other rightwing 
