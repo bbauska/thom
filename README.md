@@ -1,12 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ index.html of bbauska/thom making thom.bauska.org ~~~~~~~~~~~~~~~~~~~~~-->
+<head>
+  <meta charset="utf-8" />
 
+  <!-- meta viewport, title, desc, robot for SEO -->
+  <meta name="author" content="Brian Bauska">
+  <meta name="title" content="Thom's Politics 2025">
+  <meta name="description" content="Thom Hartmann's Politics, 2025. Involving everything 
+    from drone warfare to clepto coin grift.">
+  <meta name="keywords" content="steak,Steak,YouTube,Sonic,sonic,SONIC,Silus,Gaming,World,
+    Silus Gaming World" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="robots" content="index, follow">
+  <link rel="manifest" href="manifest.json" />
+  <title>Thom on Politics 2025</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico" />
+  <link rel="canonical" href="https://thom.bauska.org">
+
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/styles/default.min.css">
+  <link rel="stylesheet" type="text/css" href="./css/styles.css">
+  <script defer src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/highlight.min.js"></script>
+  <!-- and it's easy to individually load SOME additional languages -->
+  <script defer src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/languages/go.min.js"></script>
+
+<link rel="apple-touch-icon" sizes="57x57" href="./images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="./images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="./images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="./images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="./images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="./images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="./images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="./images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="./images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./images/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="./images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-
+<body>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Has Trump heralded a new “gilded age?” What comes next? Like Gatsby’s 1925 West </h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Egg mansion — stuffed with opulence but rotting underneath — Trump’s America is 
+<h2>Egg mansion — stuffed with opulence but rotting underneath</h2>
+<p>Trump’s America is 
 plunging headlong into a new Gilded Age, this time gilded not with gold but with grift. The 
 signs are everywhere. There’s the multimillion-dollar White House ballroom Trump wants 
 built for his private fundraising galas, while federal workers go without raises. There’s the 
@@ -26,32 +70,33 @@ question is: will we stop it before the crash, or let this corrupt spectacle dra
 second Republican Great Depression like The Fourth Turning predicts?
 
 <h2>GOP lawmaker runs into a buzzsaw at town hall</h2>
-Republicans showing up in public to 
-defend their and Trump’s obscene behavior is becoming like trying to defy gravity; it rarely 
-works out well. Mike Johnson knows this, which is why he won’t do town halls and he’s 
-advised all the other Republicans to likewise avoid contact with the dirty public (but keep 
-up the big-bucks dinners with lobbyists and donors). Wisconsin Republican Congressman 
-Brian Stiel thought he could pull it off, and was quickly set straight. While about 50 presumably 
-Democratic protesters showed up outside the venue, inside the presumably Republican 
-constituents of Stiel’s were having none of his BS. He tried to defend ICE wearing masks and 
-was booed down. Same thing happened when he said it was important for Republicans to have 
-cut Medicaid with the Big Ugly Bill. One voter called him an “embarrassment,” another said, 
-“You’re not the right fit for us anymore,” and a third said: “I am so disappointed in how you 
-represent us as the citizen of Walworth County. Southeast Wisconsin has not been represented 
-by you. President Trump seems to run southeast Wisconsin through you.” While Stiel thought 
-he could defy political gravity, it didn’t work; this is another example showing there’s a good 
-chance for Republicans to get wiped out in the ’26 elections, which, of course, is why they’re so 
-vigorously trying to gerrymander Red states and purge millions of voters from the rolls in Blue 
-cities. Will it work? Will Gavin Newsom call a special election to redraw California’s maps? Will 
-other Democratic states follow Illinois Governor JB Pritzker’s advice to “fight gerrymandering 
-fire with fire” and Congressman and Progressive Caucus President Emeritus Mark Pocan’s 
-advice for Blue states to begin their own voter purges? Stay tuned…
+<p>Republicans showing up in public to defend their and Trump’s obscene behavior is becoming 
+like trying to defy gravity; it rarely works out well. Mike Johnson knows this, which is why 
+he won’t do town halls and he’s advised all the other Republicans to likewise avoid contact 
+with the dirty public (but keep up the big-bucks dinners with lobbyists and donors). Wisconsin 
+Republican Congressman Brian Stiel thought he could pull it off, and was quickly set straight. 
+While about 50 presumably Democratic protesters showed up outside the venue, inside the 
+presumably Republican constituents of Stiel’s were having none of his BS. He tried to defend 
+ICE wearing masks and was booed down. Same thing happened when he said it was important for 
+Republicans to have cut Medicaid with the Big Ugly Bill. One voter called him an “embarrassment,” 
+another said, “You’re not the right fit for us anymore,” and a third said: “I am so disappointed 
+in how you represent us as the citizen of Walworth County. Southeast Wisconsin has not been 
+represented by you. President Trump seems to run southeast Wisconsin through you.”</p>
 
-— First it was Nazi salutes; now Elon wants you to know that “women are built to be traded.” 
+<p>While Stiel thought he could defy political gravity, it didn’t work; this is another 
+example showing there’s a good chance for Republicans to get wiped out in the ’26 elections, 
+which, of course, is why they’re so vigorously trying to gerrymander Red states and purge 
+millions of voters from the rolls in Blue cities. Will it work? Will Gavin Newsom call a 
+special election to redraw California’s maps? Will other Democratic states follow Illinois 
+Governor JB Pritzker’s advice to “fight gerrymandering fire with fire” and Congressman and 
+Progressive Caucus President Emeritus Mark Pocan’s advice for Blue states to begin their 
+own voter purges? Stay tuned…</p>
+
+<p>First it was Nazi salutes; now Elon wants you to know that “women are built to be traded.” 
 Seriously. Check this out; it sorta speaks for itself and tells you everything you never wanted to 
-know about this bizarre billionaire African immigrant who is now the GOP’s single largest donor:
+know about this bizarre billionaire African immigrant who is now the GOP’s single largest donor:</p>
 
-— Trump wants the federal government to be able to track every one of your medical and health 
+<p>Trump wants the federal government to be able to track every one of your medical and health 
 issues in real time, and Big Tech is all excited about being able to get their hands on your private 
 data. Georgetown University law professor who specializes in public health, Lawrence Gostin, 
 noted, “There are enormous ethical and legal concerns. Patients across America should be very 
@@ -60,9 +105,9 @@ The Associated Press reports: “More than 60 companies, including major tech co
 Google, Amazon and Apple as well as health care giants like UnitedHealth Group and CVS Health, 
 have agreed to share patient data in the system.” Just what we all needed, right? These guys 
 snooping into our private medical information and then sharing it all with Trump, Noem, Bondi, 
-and ICE…
+and ICE…</p>
 
-— Trump is threatening other countries with steep tariffs if they don’t change their sovereign 
+<p>Trump is threatening other countries with steep tariffs if they don’t change their sovereign 
 foreign policy decisions. The Constitution says only Congress can impose tariffs; it’s unambiguous. 
 The Emergency Powers Act that Trump is citing as justification for his imposing unilateral tariffs 
 doesn’t even mention the word “tariffs.” What he’s doing is entirely illegal and no business is going 
@@ -76,29 +121,33 @@ going to hit Canada — or, more correctly, he’s going to hit American consume
 with a 35% tariff. This is nuts and, as I mentioned yesterday, he’s only doing it because it forces 
 leaders of countries around the world to come grovel before him the way he’d always hoped the guys 
 on Wall Street and in New York high society would do (but they refused). Trump’s fragile ego has 
-become a wrecking ball that threatens a second Republican Great Depression. Buckle up…
+become a wrecking ball that threatens a second Republican Great Depression. Buckle up…</p>
 
-— Where are the 4,725 Epstein wire transfers that Trump, Noem, and Bondi are hiding? That’s the 
+<p>Where are the 4,725 Epstein wire transfers that Trump, Noem, and Bondi are hiding? That’s the 
 question my senator, Ron Wyden, wants answers to. He’s unearthed proof that the details of the 
 cash movements totaling over a billion dollars are in the possession of the Trump administration, 
 but they’re not only refusing to release them, they won’t even acknowledge Wyden’s demand for 
 transparency. It could, after all, blow open the entire underage sex-trafficking business Epstein was 
 running out of his two homes, each just down the street from his “best friend” Trump’s homes in New 
 York City and Palm Beach. We also learned yesterday that the DOJ has been going through the 
-Epstein documents and redacting anything that has to do with Trump. Meanwhile, in what’s almost 
-certainly the down payment in the deal Trump’s criminal defense lawyer Todd Blanche worked out 
-with her, Ghislaine Maxwell was moved yesterday from a real women’s prison in Florida to a 
-“minimum security facility” in Texas that’s more like a women’s sorority house. This is particularly 
-odd since it’s against the law as Allison Gill notes: you can’t put sex offenders into minimum security 
-facilities (because they could represent a threat to the other inmates; the same reason there are no 
-violent offenders there). Somebody waived that rule — or Blanche/Noem/Bondi/Trump are ignoring it 
-— and the media’s not even asking who or why. The big question now is whether Trump’s base will 
-accept it (Fox already has) when the coverup is complete, Maxwell testifies that he had nothing to 
-do with underage girls but Bill Clinton was sure there, and Trump declares “total transparency.” I’m 
-betting, reluctantly, that they will and it’ll all blow over by November, but with this case it’s impossible 
-to know for sure.
+Epstein documents and redacting anything that has to do with Trump.</p>
 
-— Geeky Science! There was a mass die off of Monarch butterflies is 2024 and we now know why. 
+<p>Meanwhile, in what’s almost certainly the down payment in the deal Trump’s criminal 
+defense lawyer Todd Blanche worked out with her, Ghislaine Maxwell was moved yesterday 
+from a real women’s prison in Florida to a “minimum security facility” in Texas that’s 
+more like a women’s sorority house. This is particularly odd since it’s against the law 
+as Allison Gill notes: you can’t put sex offenders into minimum security facilities 
+(because they could represent a threat to the other inmates; the same reason there are 
+no violent offenders there). Somebody waived that rule — or Blanche/Noem/Bondi/Trump 
+are ignoring it — and the media’s not even asking who or why. The big question now is 
+whether Trump’s base will accept it (Fox already has) when the coverup is complete, 
+Maxwell testifies that he had nothing to do with underage girls but Bill Clinton was 
+sure there, and Trump declares “total transparency.” I’m betting, reluctantly, that 
+they will and it’ll all blow over by November, but with this case it’s impossible 
+to know for sure.</p>
+
+<h2>Geeky Science!</h2>
+<p>There was a mass die off of Monarch butterflies is 2024 and we now know why. 
 Over 90 percent of Monarch butterflies that were common across North America just 50 years ago are 
 gone, and there was another mass die-off at a California over-wintering site last December. Up until 
 now, nobody has known for sure what’s killing the insects; the main suspects have been pesticides, 
@@ -110,37 +159,28 @@ humans and dogs, but the last Trump administration said they could ditch the war
 kill weeds with high-strength vinegar, and Neem oil is a great insecticide; there are lots of natural 
 alternatives to the chemicals that are applied both commercially and in residential environments and 
 we should all use them, encourage our HOAs and neighbors to use them, and push our politicians to 
-get the EPA back on the job.
+get the EPA back on the job.</p>
 
- 	
-Thom Hartmann is live on Substack now: "The Cruelty Machine: Inside Trump’s America, Where Pain is 
-Policy & Fear is the Fuel"
+<h2>"The Cruelty Machine: Inside Trump’s America, Where Pain is Policy & Fear is the Fuel"</h2>
 
-Elon Musk amplifies bizarre claim that "women are built to be traded" - Yes! you heard that 
-right. Not only is he saying "it's a man's world" but that women are their commodity. Wow.
+<p>Elon Musk amplifies bizarre claim that "women are built to be traded" - Yes! you heard that 
+right. Not only is he saying "it's a man's world" but that women are their commodity. Wow.</p>
 
+<p>The Coming Republican Depression: How the GOP Turned America Into a Powder Keg—and Is 
+About to Light the Match</p>
 
--- The Coming Republican Depression: How the GOP Turned America Into a Powder Keg—and Is 
-About to Light the Match
+<p>GOP lawmaker runs into a buzzsaw at town hall...</p>
 
--- GOP lawmaker runs into a buzzsaw at town hall...
+<p>Nothing says Gilded Age better - than a multimillion-dollar White House ballroom and a 
+free gifted luxury jet Trump gets to keep, and "we, the people" paid for it.</p>
 
--- Elon Musk amplifies bizarre claim that "women are built to be traded" - Yes you heard that right...
-Not only is he saying "it's a man's world" but that women are their commodity. Wow.
+<p>Feds launching health data tracking - what could go wrong?</p>
 
--- Nothing says Gilded Age better - than a multimillion-dollar White House ballroom and a 
-free gifted luxury jet Trump gets to keep, and "we, the people" paid for it.
-
--- Feds launching health data tracking - what could go wrong?
-
--- Trump is threatening the foreign policy of other countries with trade deals. This is why 
+<p>Trump is threatening the foreign policy of other countries with trade deals. This is why 
 the economy can count on Trump and neither can our allies. And what does this mean 
-for the Palestinians?
+for the Palestinians?</p>
 
--- Where are the 4,725 wire transfers the DOJ is hiding?
-
--- Geeky Science! There was a mass die off of Monarch butterflies is 2024 and we know 
-know why - we have to change!
+<p>Where are the 4,725 wire transfers the DOJ is hiding?</p>
 
 -- Pedofile Alert! Trump welcomes NFL Hall of Famer arrested for statutory rape of a 16 yr 
 old: Trump says, ‘Nobody Like Him’ Hmmm...I'm just thinking - who is like him?
@@ -644,22 +684,12 @@ for gun control?
 -- Crazy Alert! Did Trump just say going to Epstein's island is a "privilege?"
 
 
-	
-Forwarded this email? Subscribe here for more
-
-The Hartmann Report is a reader-supported publication where all weekday articles are free 
-and available to everyone. Please support my work to rescue democracy and save our 
-planet by becoming a paid subscriber today and gain additional benefits
-
-Upgrade to paid
-The Coming Republican Depression: How the GOP Turned America Into a Powder Keg, 
-and Is About to Light the Match
-
 Housing bubbles, financial scams, and political sabotage are converging into a historic, 
 preventable disaster.
 
 
-epublicans may be fixing to crash the economy again — Republican presidents oversaw 
+
+Republicans may be fixing to crash the economy again — Republican presidents oversaw 
 10 of the last 11 recessions and the Republican Great Depression — and they’re doing it 
 to satisfy the greed of the billionaires they serve.
 
